@@ -1,3 +1,2 @@
 # linux_learning
----
-自用linux学习仓库
+_自用linux学习仓库_
